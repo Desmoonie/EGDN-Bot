@@ -88,7 +88,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/Prakharper/PrakBot-2.0.git
+git clone https://github.com/Desmoonie/EGDN-Bot.git
 ```
 
 ```bash
